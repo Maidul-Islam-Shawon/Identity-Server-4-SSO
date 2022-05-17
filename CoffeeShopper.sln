@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{8D18B31E-644F-4F3A-B8C3-71E1CB6CCE70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{8D18B31E-644F-4F3A-B8C3-71E1CB6CCE70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{32F593F6-8160-4013-81D9-6FABF849A1FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{32F593F6-8160-4013-81D9-6FABF849A1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{773385A5-F252-4B35-99B7-73E53AB2A90E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{32F593F6-8160-4013-81D9-6FABF849A1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32F593F6-8160-4013-81D9-6FABF849A1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32F593F6-8160-4013-81D9-6FABF849A1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773385A5-F252-4B35-99B7-73E53AB2A90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773385A5-F252-4B35-99B7-73E53AB2A90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773385A5-F252-4B35-99B7-73E53AB2A90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773385A5-F252-4B35-99B7-73E53AB2A90E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

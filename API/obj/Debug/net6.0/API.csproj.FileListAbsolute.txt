@@ -56,3 +56,5 @@ D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\obj\Debug\net6.0\API.dll
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\obj\Debug\net6.0\ref\API.dll
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\obj\Debug\net6.0\API.pdb
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\AutoMapper.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

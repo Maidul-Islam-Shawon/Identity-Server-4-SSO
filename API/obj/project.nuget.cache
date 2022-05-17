@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Bu4+RN/RnDlmggAculWwJqocESlUOET9c1lsp8QfPfUfn14u00AbD04scuy9TyTn+sQGZ5IqGjk/Cx3ZQOEKhQ==",
+  "dgSpecHash": "AO4APNpYsGZhyQW5Bs5X49mW6mTPR8JkmFmNwxQBYDV2bxpxhBPxx3UVCF/tM2RAyltoORJlaGDn4dm/nnf9CQ==",
   "success": true,
   "projectFilePath": "D:\\RandD\\Identity Server 4 - SSO\\CoffeeShopper\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\maidul\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\maidul\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\maidul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\maidul\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\maidul\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\maidul\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\maidul\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\maidul\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
