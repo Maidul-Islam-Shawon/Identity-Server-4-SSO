@@ -20,7 +20,12 @@
       "ProjectGuid": "773385a5-f252-4b35-99b7-73e53ab2a90e",
       "DisplayName": "IdentityServer",
       "ColorIndex": 2
+    },
+    "ff0f0cac-9e08-43fe-bc62-94b3afa22ab8": {
+      "ProjectGuid": "ff0f0cac-9e08-43fe-bc62-94b3afa22ab8",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
