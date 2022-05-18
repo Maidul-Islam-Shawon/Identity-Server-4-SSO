@@ -72,3 +72,5 @@ D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\I
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\ref\IdentityServer.dll
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\IdentityServer.pdb
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\IdentityServer.genruntimeconfig.cache
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\IdentityServer.RazorAssemblyInfo.cache
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\IdentityServer.RazorAssemblyInfo.cs
