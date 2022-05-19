@@ -73,3 +73,5 @@ D:\RandD\Identity Server 4 - SSO\CoffeeShopper\ClientApp\bin\Debug\net6.0\Identi
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\ClientApp\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\ClientApp\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\ClientApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\ClientApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\ClientApp\obj\Debug\net6.0\scopedcss\Shared\RedirectToLogin.razor.rz.scp.css

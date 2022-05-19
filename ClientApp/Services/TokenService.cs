@@ -23,14 +23,14 @@ namespace ClientApp.Services
 
         public async Task<TokenResponse> GetToken(string scope)
         {
-            var tokenResponse = await _httpClient.RequestClientCredentialsTokenAsync(new
-                ClientCredentialsTokenRequest
-            {
-                Address = _discoveryDocument.TokenEndpoint,
-                ClientId = _IdentityServerSettings.Value.ClientName,
-                ClientSecret = _IdentityServerSettings.Value.ClientPassword,
-                Scope = scope
-            });
+            var tokenResponse = await _httpClient.RequestClientCredentialsTokenAsync(
+                new ClientCredentialsTokenRequest
+                {
+                    Address = _discoveryDocument.TokenEndpoint,
+                    ClientId = _IdentityServerSettings.Value.ClientName,
+                    ClientSecret = _IdentityServerSettings.Value.ClientPassword,
+                    Scope = scope
+                });
 
             if (tokenResponse.IsError)
                 throw new Exception("Unable to get Token", tokenResponse.Exception);

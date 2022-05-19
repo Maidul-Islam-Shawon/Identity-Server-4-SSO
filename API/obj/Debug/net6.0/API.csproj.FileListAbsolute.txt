@@ -63,3 +63,8 @@ D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\IdentityMode
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs

@@ -74,3 +74,8 @@ D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\I
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\IdentityServer.genruntimeconfig.cache
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\IdentityServer.RazorAssemblyInfo.cache
 D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\obj\Debug\net6.0\IdentityServer.RazorAssemblyInfo.cs
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\RandD\Identity Server 4 - SSO\CoffeeShopper\IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll

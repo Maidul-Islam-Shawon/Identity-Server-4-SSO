@@ -41,6 +41,9 @@ builder.Services.AddIdentityServer()
     {
         options.ConfigureDbContext = c => c.UseSqlServer(CoffeeShopperConnection,
             opt => opt.MigrationsAssembly(assembly));
+
+        options.EnableTokenCleanup = true;
+        options.TokenCleanupInterval = 30;
     })
     .AddDeveloperSigningCredential();
 

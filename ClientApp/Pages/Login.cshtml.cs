@@ -1,0 +1,31 @@
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.OpenIdConnect;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace ClientApp.Pages
+{
+    public class LoginModel : PageModel
+    {
+        public async Task<IActionResult> OnGetAsync(string redirectUri)
+        {
+            if (string.IsNullOrWhiteSpace(redirectUri))
+            {
+                redirectUri = Url.Content("~/");
+            }
+
+            //checking if the user is authenticated
+            if (HttpContext.User.Identity.IsAuthenticated)
+            {
+                Response.Redirect(redirectUri);
+            }
+
+            return Challenge(new AuthenticationProperties
+            {
+                RedirectUri = redirectUri,
+            },
+            OpenIdConnectDefaults.AuthenticationScheme);
+        }
+
+    }
+}
